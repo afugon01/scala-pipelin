@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: org.elasticsearch.client#rest;7.5.1
+Implementation-Version: 7.5.1
+Built-Status: integration
+Built-By: vagrant
+Built-OS: Linux
+Build-Date: 2019-12-16T22:57:37.837472Z
+Gradle-Version: 5.6.2
+Created-By: 12+33 (Oracle Corporation)
+Build-Java-Version: 12
+Module-Source: /client/rest
+Module-Origin: git@github.com:elastic/elasticsearch.git
+Change: 3ae9ac9a93c95bd0cdc054951cf95d88e1e18d96
+Branch: 3ae9ac9a93c95bd0cdc054951cf95d88e1e18d96
+X-Compile-Target-JDK: 1.8
+X-Compile-Source-JDK: 1.8
+X-Compile-Elasticsearch-Version: 7.5.1
+X-Compile-Lucene-Version: 8.3.0
+X-Compile-Elasticsearch-Snapshot: false
+

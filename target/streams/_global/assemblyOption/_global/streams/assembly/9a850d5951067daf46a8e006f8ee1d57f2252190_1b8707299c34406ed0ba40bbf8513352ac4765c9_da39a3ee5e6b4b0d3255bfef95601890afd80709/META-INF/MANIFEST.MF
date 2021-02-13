@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: com.github.mustachejava
+Archiver-Version: Plexus Archiver
+Built-By: sam
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_192
+

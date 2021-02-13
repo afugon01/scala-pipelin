@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.8.0_222-b10 (Oracle Corporation)
+Extension-Name: org.apache.lucene
+Specification-Title: Lucene Search Engine: misc
+Specification-Version: 8.3.0
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.lucene
+Implementation-Version: 8.3.0 2aa586909b911e66e1d8863aa89f173d69f86cd2
+  - ishan - 2019-10-25 23:10:49
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+Multi-Release: true
+
